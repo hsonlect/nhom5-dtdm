@@ -1,9 +1,1 @@
-{
-  "scripts": {
-    "compile": [
-      "chmod 777 lethienngon/",
-      "chmod 644 lethienngon/setup.php",
-      "chmod 644 lethienngon/index.php"
-    ]
-  }
-}
+web: vendor/bin/heroku-php-apache2 lethienngon
