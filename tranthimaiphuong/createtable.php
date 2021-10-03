@@ -20,5 +20,5 @@ function pg_connection_string_from_database_url() {
       echo "<h4 style='color:green'>Table created successfully</h4>";
    }
    pg_close($db);
-   echo "<br><a href=link.html>Tro lai</a>";
+   echo "<br><a href=index.html>Tro lai</a>";
 ?>
