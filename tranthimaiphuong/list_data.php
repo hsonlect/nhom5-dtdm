@@ -29,6 +29,7 @@ function pg_connection_string_from_database_url() {
       exit();
    } 
 ?>
+<br>
    <table border="1" cellspacing="2" cellpadding="2">
    <tr><td>Username</td><td>Password</td></tr>
 <?php
