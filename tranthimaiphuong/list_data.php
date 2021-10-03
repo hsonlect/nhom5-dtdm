@@ -39,5 +39,5 @@ function pg_connection_string_from_database_url() {
  pg_close($db);
 ?>
    </table>
-   <BR><a href="index.html">Trolai</a>
+   <BR><a href="index.html">Tro lai</a>
 </body></html>
