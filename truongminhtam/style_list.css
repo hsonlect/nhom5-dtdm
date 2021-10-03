@@ -1,0 +1,24 @@
+* { margin: 0; padding: 0;
+}
+#container {
+  border: 1px solid red; background: lightgray; width: 600px; margin: 0px auto;
+}
+.text { border-bottom: 2px dotted red; color: red; font-size: 18px; text-align: center; padding: 10px 0px;
+}
+p { padding: 10px;
+}
+table { border: 2px solid gray; width: 580px; margin: 0px auto; background: white;
+}
+th { background-color: cadetblue; padding: 5px;
+}
+td { text-align: left; padding-left: 5px; margin: 0px auto;
+}
+td p { margin: 0; padding: 0; display: inline;
+}
+button a { text-decoration: none; color: whitesmoke;
+}
+button { padding: 10px; font-weight: bold; font-size: 18px; background: cadetblue; font-family: 'Time New Roman'; box-shadow: 0px 0px 8px 8px white; 
+    border: none;
+}
+.logout { margin: 20px 248px;
+}

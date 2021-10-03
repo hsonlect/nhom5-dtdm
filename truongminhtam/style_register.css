@@ -1,0 +1,43 @@
+input[type=text], select, [type=password], [type=file]  {
+    width: 90%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+input[type=submit], [type=reset] {
+    width: 20%;
+    padding: 5px;
+    resize: vertical;
+}
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+.container {
+    width: 500px;
+    height: 450px;
+    border: 2px solid #ccc;
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
