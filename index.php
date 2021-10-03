@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<<<<<<< HEAD
 <head>
     <meta charset="UTF-8">
     <title>Lập trình Web _ CT428</title>
@@ -30,16 +29,18 @@
             </div>
         </div>
         <div id="right">
-
+            <h3>Họ và tên: Lê Thiện Ngôn - MSSV: B1809157 </h3>
+            <h3>Tên của Table: tofulee - Các trường: name, mssv</h3>
+            <hr>
+            <h3>Họ và tên: Nguyễn Thị Mỹ Như - MSSV: B1809163 </h3>
+            <h3>Tên của table: nhu_table - Các trường: naem, mssv </h3>
+            <hr>
+            <h3>Ho va ten: Trần Thị Mai Phương - MSSV: B1809170 </h3>
+            <h3>Ten table: phuong_table - Các trường: username, password
+            </h3>
+            <hr>
         </div>
     </div>
-<br><br>Họ và tên: Lê Thiện Ngôn MSSV: B1809157";
-<br>Tên của Table: tofulee    Các trường: name, mssv";
-
-<br> <hr> Họ và tên: Nguyễn Thị Mỹ Như, mssv: B1809163";
-<br>Tên của table: nhu_table	Các trường: naem, mssv<hr>";
-
-<br> Ho va ten: Tran Thi Mai Phuong; MSSV: B1809170";
-<br>Ten table:  phuong_table - Cac truong: username,  password<hr>
 </body>
+
 </html>
