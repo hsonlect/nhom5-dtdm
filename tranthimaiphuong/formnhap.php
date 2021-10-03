@@ -3,6 +3,10 @@
 <head>
 	<meta charset="utf-8">
 	<title>Nhập thong tin</title>
+	<style>
+		body{ padding: 0 30%;
+		}
+	</style>
 <head>
 <body>
 	<h4>Mời nhập thông tin</h4>
