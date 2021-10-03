@@ -12,7 +12,7 @@ function pg_connection_string_from_database_url() {
       echo "<p style='color:green;'>Opened database successfully</p>";
    }
    
-   $sql ="DELETE FROM MyAccounts WHERE username='$username' and password='$password'";
+   $sql ="DELETE FROM phuong_table WHERE username='$username' and password='$password'";
 
    print "<BR>$sql<BR>";
    $ret = pg_query($db, $sql);
