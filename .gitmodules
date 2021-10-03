@@ -1,0 +1,3 @@
+[submodule "lethienngon"]
+	path = lethienngon
+	url = https://github.com/lethienngon/lethienngon.git
