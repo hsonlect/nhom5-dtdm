@@ -36,6 +36,7 @@
 </body>
 
 </html>
+<?php
 =======
 echo "Hello World!";
 echo "<br><br>Họ và tên: Lê Thiện Ngôn MSSV: B1809157";
@@ -47,4 +48,3 @@ echo "<br>Tên của table: nhu_table	Các trường: naem, mssv<hr>";
 echo "<br> Ho va ten: Tran Thi Mai Phuong; MSSV: B1809170";
 echo "<br>Ten table:  phuong_table - Cac truong: username,  password<hr>";
 ?>
->>>>>>> 152edc1e834c4e399530f45f938a4d4fe7bf1270
