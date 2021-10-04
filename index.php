@@ -45,6 +45,9 @@
 	    <h3>Họ và tên: Lê Hoàng Sơn - MSSV: B1809175</h3>
 	    <h3>Tên table: lehoangson - Các trường: username, password</h3>
 	    <hr>
+            <h3>Ho va ten : Nguyen Hoang Nguyen - Mssv : B1809158</h3>
+            <h3>Ten table : nguyenhoangnguyen - cac truong : username,password</h3>
+            <hr>
         </div>
     </div>
 </body>
