@@ -1,0 +1,595 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+	font-size: 18px;
+	width: 1400px;
+	margin: 0px auto;
+	background-color: whitesmoke;
+}
+
+#menu-top {
+	margin-top: 25px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#banner {
+	background-image: url("https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/67487223_2107963146172374_6365220770523643904_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=nYNR6vstUUwAX87pIYz&_nc_ht=scontent.fvca1-2.fna&oh=af027546bf71cfa8fc809c61b123a9f3&oe=607A9091") ;
+	height: 400px;
+	background-repeat:no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	background-position: center;
+}
+
+.avatar{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+	top: 50px;
+    left: calc(49% - 85px);
+    border-radius: 50%;
+    -object-fit: cover;
+    border: 4px solid #fff;
+}
+
+.iconf {
+	position: absolute;
+	left: calc(50% - 90px);
+	top: 370px;
+}
+
+.iconc {
+	position: absolute;
+	left: calc(50% - -23px);
+	border-radius: 50%;
+	top: 375px;
+}
+
+#banner h1 {
+	position: relative;
+	text-align: center;
+	top: 300px;
+	color: rgb(73, 24, 207);
+	text-shadow: 4px 3px 4px whitesmoke
+}
+
+
+#main #left {
+	width: 380px;
+	float: left ;
+}
+
+ #main #right {
+	float: right;
+	width: 1000px;
+ 	min-height: 400px;
+ }
+
+ #footer {
+ 	font-weight: bold;
+ 	color: blue;
+ 	height: 60px;
+ 	clear: both;
+ 	line-height: 60px;
+ }
+
+
+#menu-top ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+#menu-top li{
+	display: inline-block;
+	color: blue;
+	width: 100px;
+	height: 40px;
+	line-height: 40px;
+}
+
+#menu-top ul li a{
+	text-decoration: none;
+	color: blue;
+	display: block;
+	margin-left:-4px;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(199, 146, 230);
+}
+
+p {
+	padding-bottom:10px ;
+}
+
+h2 {
+	margin-bottom: 10px;
+	color:rgb(86, 51, 116);
+}
+
+#main {
+	margin-top: 10px;
+}
+
+#introduction, #sub-hobby {
+	margin: 20px auto;
+}
+
+#introduction {
+	width: 900px;
+	border: rgb(51, 143, 167);
+	padding: 20px;
+	box-shadow:  2px 2px 25px 1px rgb(191, 201, 204);
+	line-height: 30px;
+}
+
+#sub-education {
+	height: 250px;
+	width: 940px;
+	margin: 20px auto;
+	border: rgb(51, 143, 167);
+	box-shadow:  2px 2px 25px 1px rgb(191, 201, 204);
+	line-height: 30px;
+	color: whitesmoke;
+	background-image: url("https://i.pinimg.com/originals/6f/2d/34/6f2d34fe6c8746c56c14fbc55308ef99.jpg");
+}
+
+#education h2 {
+	text-align: center;
+}
+
+#sub-education1, #sub-education2 {
+	height: 150px;
+	width: 940px;
+	margin: 20px auto;
+	border: rgb(51, 143, 167);
+	box-shadow:  2px 2px 25px 1px rgb(191, 201, 204);
+	line-height: 30px;
+	color: whitesmoke;
+	background-image: url("https://i.pinimg.com/originals/6f/2d/34/6f2d34fe6c8746c56c14fbc55308ef99.jpg");
+}
+
+
+.subdata-left{
+	position: relative;
+	background-image: url("https://data2.1freewallpapers.com/download/colorful-bright-orange.jpg");
+	background-position: center;
+	background-color: #ff5300;
+	width: 200px;
+	height: 100%;
+	float: left;
+	text-align: center;
+	color: whitesmoke;
+}
+
+#sub-education .subdata-left p {
+	padding-top: 90px;
+}
+
+.subdata-left p {
+	padding-top: 40px;
+}
+
+.subdata-right{
+	width: 700px ;
+	float: right;
+	padding-top: 10px;
+}
+
+.subdata-right h4 {
+	color: #9a9a9a;
+}
+
+#hobby {
+	clear: both;
+}
+#sub-hobby{
+	width: 900px;
+	border: rgb(51, 143, 167);
+	padding: 20px;
+	box-shadow:  2px 2px 25px 1px rgb(191, 201, 204);
+	line-height: 30px;
+	color: whitesmoke;
+	background-image: url("https://i.pinimg.com/originals/6f/2d/34/6f2d34fe6c8746c56c14fbc55308ef99.jpg");
+
+}
+
+#hobby h2{
+	text-align: center;
+}
+
+table th {
+	text-align: left;
+	padding-right: 100px;
+	color: rgb(96, 105, 122);
+}
+
+#main #left .menu_left img{
+	width: 380px;
+	height: 1000px;
+}
+
+.text{
+	position: relative;
+	color: crimson;
+	font-weight: bold;
+	top: 500px;
+	font-size: 40px;
+}
+.text p {
+	text-align: center;
+	margin-bottom: 50px;;
+	font-size: 30px;
+}
+
+.text div{
+		width: 100px;
+		height: 50px;
+		color: red;
+		font-weight: bold;
+		position: relative;
+		animation: mymove 5s infinite;
+	  }
+	  
+	  #div1 {animation-timing-function: linear;}
+	  #div2 {animation-timing-function: ease;}
+	  #div3 {animation-timing-function: ease-in;}
+	  #div4 {animation-timing-function: ease-out;}
+	  #div5 {animation-timing-function: ease-in-out;}
+	  
+	  @keyframes mymove {
+		from {left: 0px;}
+		to {left: 150px;}
+}
+
+#main #left .menu_left ul li {
+	list-style: none;
+}
+
+#main #left .menu_left ul li a {
+	display: block;
+	text-decoration: none;
+	line-height: 32px;
+	border: 1px solid #ccc;
+	text-indent: 15px;
+}
+
+#main #left .menu_left ul li a:hover {
+	color: blue;
+	background: orange;
+}
+
+#main #left .menu_left h3{
+	background: blue;
+	height: 40px;
+	margin-top: 0px;
+	text-indent: 15px;
+	font-size: 18px;
+	line-height: 40px;
+	color: #FFF;
+}
+
+#footer ul {
+	margin: 0px;
+	padding:0px;
+	text-align: center;
+}
+
+#footer li{
+	list-style: none;
+	display: inline-block;
+	padding: 0px 40px 0px 40px;
+}
+
+#footer ul li img{
+    width:32px;
+    height: 32px;
+    border-radius: 100%;
+    border: 1px solid #fff;
+    margin-top: 10px;
+}*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+	font-size: 18px;
+	width: 1400px;
+	margin: 0px auto;
+	background-color: whitesmoke;
+}
+
+#menu-top {
+	margin-top: 25px;
+	height: 40px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#banner {
+	background-image: url("https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/67487223_2107963146172374_6365220770523643904_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=nYNR6vstUUwAX87pIYz&_nc_ht=scontent.fvca1-2.fna&oh=af027546bf71cfa8fc809c61b123a9f3&oe=607A9091") ;
+	height: 400px;
+	background-repeat:no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	background-position: center;
+}
+
+.avatar{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+	top: 50px;
+    left: calc(49% - 85px);
+    border-radius: 50%;
+    -object-fit: cover;
+    border: 4px solid #fff;
+}
+
+.iconf {
+	position: absolute;
+	left: calc(50% - 90px);
+	top: 370px;
+}
+
+.iconc {
+	position: absolute;
+	left: calc(50% - -23px);
+	border-radius: 50%;
+	top: 375px;
+}
+
+#banner h1 {
+	position: relative;
+	text-align: center;
+	top: 300px;
+	color: rgb(73, 24, 207);
+	text-shadow: 4px 3px 4px whitesmoke
+}
+
+
+#main #left {
+	width: 380px;
+	float: left ;
+}
+
+ #main #right {
+	float: right;
+	width: 1000px;
+ 	min-height: 400px;
+ }
+
+ #footer {
+ 	font-weight: bold;
+ 	color: blue;
+ 	height: 60px;
+ 	clear: both;
+ 	line-height: 60px;
+ }
+
+
+#menu-top ul {
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+#menu-top li{
+	display: inline-block;
+	color: blue;
+	width: 100px;
+	height: 40px;
+	line-height: 40px;
+}
+
+#menu-top ul li a{
+	text-decoration: none;
+	color: blue;
+	display: block;
+	margin-left:-4px;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(199, 146, 230);
+}
+
+p {
+	padding-bottom:10px ;
+}
+
+h2 {
+	margin-bottom: 10px;
+	color:rgb(86, 51, 116);
+}
+
+#main {
+	margin-top: 10px;
+}
+
+#introduction, #sub-hobby {
+	margin: 20px auto;
+}
+
+#introduction {
+	width: 900px;
+	border: rgb(51, 143, 167);
+	padding: 20px;
+	box-shadow:  2px 2px 25px 1px rgb(191, 201, 204);
+	line-height: 30px;
+}
+
+#sub-education {
+	height: 250px;
+	width: 940px;
+	margin: 20px auto;
+	border: rgb(51, 143, 167);
+	box-shadow:  2px 2px 25px 1px rgb(191, 201, 204);
+	line-height: 30px;
+	color: whitesmoke;
+	background-image: url("https://i.pinimg.com/originals/6f/2d/34/6f2d34fe6c8746c56c14fbc55308ef99.jpg");
+}
+
+#education h2 {
+	text-align: center;
+}
+
+#sub-education1, #sub-education2 {
+	height: 150px;
+	width: 940px;
+	margin: 20px auto;
+	border: rgb(51, 143, 167);
+	box-shadow:  2px 2px 25px 1px rgb(191, 201, 204);
+	line-height: 30px;
+	color: whitesmoke;
+	background-image: url("https://i.pinimg.com/originals/6f/2d/34/6f2d34fe6c8746c56c14fbc55308ef99.jpg");
+}
+
+
+.subdata-left{
+	position: relative;
+	background-image: url("https://data2.1freewallpapers.com/download/colorful-bright-orange.jpg");
+	background-position: center;
+	background-color: #ff5300;
+	width: 200px;
+	height: 100%;
+	float: left;
+	text-align: center;
+	color: whitesmoke;
+}
+
+#sub-education .subdata-left p {
+	padding-top: 90px;
+}
+
+.subdata-left p {
+	padding-top: 40px;
+}
+
+.subdata-right{
+	width: 700px ;
+	float: right;
+	padding-top: 10px;
+}
+
+.subdata-right h4 {
+	color: #9a9a9a;
+}
+
+#hobby {
+	clear: both;
+}
+#sub-hobby{
+	width: 900px;
+	border: rgb(51, 143, 167);
+	padding: 20px;
+	box-shadow:  2px 2px 25px 1px rgb(191, 201, 204);
+	line-height: 30px;
+	color: whitesmoke;
+	background-image: url("https://i.pinimg.com/originals/6f/2d/34/6f2d34fe6c8746c56c14fbc55308ef99.jpg");
+
+}
+
+#hobby h2{
+	text-align: center;
+}
+
+table th {
+	text-align: left;
+	padding-right: 100px;
+	color: rgb(96, 105, 122);
+}
+
+#main #left .menu_left img{
+	width: 380px;
+	height: 1000px;
+}
+
+.text{
+	position: relative;
+	color: crimson;
+	font-weight: bold;
+	top: 500px;
+	font-size: 40px;
+}
+.text p {
+	text-align: center;
+	margin-bottom: 50px;;
+	font-size: 30px;
+}
+
+.text div{
+		width: 100px;
+		height: 50px;
+		color: red;
+		font-weight: bold;
+		position: relative;
+		animation: mymove 5s infinite;
+	  }
+	  
+	  #div1 {animation-timing-function: linear;}
+	  #div2 {animation-timing-function: ease;}
+	  #div3 {animation-timing-function: ease-in;}
+	  #div4 {animation-timing-function: ease-out;}
+	  #div5 {animation-timing-function: ease-in-out;}
+	  
+	  @keyframes mymove {
+		from {left: 0px;}
+		to {left: 150px;}
+}
+
+#main #left .menu_left ul li {
+	list-style: none;
+}
+
+#main #left .menu_left ul li a {
+	display: block;
+	text-decoration: none;
+	line-height: 32px;
+	border: 1px solid #ccc;
+	text-indent: 15px;
+}
+
+#main #left .menu_left ul li a:hover {
+	color: blue;
+	background: orange;
+}
+
+#main #left .menu_left h3{
+	background: blue;
+	height: 40px;
+	margin-top: 0px;
+	text-indent: 15px;
+	font-size: 18px;
+	line-height: 40px;
+	color: #FFF;
+}
+
+#footer ul {
+	margin: 0px;
+	padding:0px;
+	text-align: center;
+}
+
+#footer li{
+	list-style: none;
+	display: inline-block;
+	padding: 0px 40px 0px 40px;
+}
+
+#footer ul li img{
+    width:32px;
+    height: 32px;
+    border-radius: 100%;
+    border: 1px solid #fff;
+    margin-top: 10px;
+}
