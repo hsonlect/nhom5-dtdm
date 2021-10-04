@@ -39,6 +39,9 @@
             <h3>Ten table: phuong_table - Các trường: username, password
             </h3>
             <hr>
+	    <h3>Ho va ten: Truong Minh Tam - MSSV: B1809177</h3>
+	    <h3>Ten Table: Thanhvien - Cac truong: id, username, password, gioitinh, nghenghiep, sodt</h3>
+	    <hr>
         </div>
     </div>
 </body>
