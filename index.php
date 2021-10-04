@@ -14,7 +14,7 @@
             <div class="menu_left">
                 <h3>Danh sách các thành viên</h3>
                 <ul>
-                    <li><a href="#">Trương Minh Tâm</a></li>
+                    <li><a href="https://nhom5-dtdm.herokuapp.com/truongminhtam">Trương Minh Tâm</a></li>
                     <li><a href="#">Trần Thị Mai Phương</a></li>
                     <li><a href="#">Lê Hoàng Sơn</a></li>
                     <li><a href="#">Nguyễn Thị Mỹ Như</a></li>
