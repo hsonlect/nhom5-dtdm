@@ -97,6 +97,9 @@
 			}
 			$sql = "INSERT INTO Thanhvien(username, password, gioitinh, nghenghiep, sodt)  
 		        		VALUES ('$username','$password','$gioitinh', '$nghenghiep', '$sodt')";
+			if($username == "" || $password =="") {
+				echo "Vui long nhap thong tin!!!";
+			}
 			$ret = pg_query($db, $sql);
 			if(!$ret){
 				echo pg_last_error($db);
