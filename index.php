@@ -33,7 +33,7 @@
             <h3>Tên của Table: tofulee - Các trường: name, mssv</h3>
             <hr>
             <h3>Họ và tên: Nguyễn Thị Mỹ Như - MSSV: B1809163 </h3>
-            <h3>Tên của table: nhu_table - Các trường: naem, mssv </h3>
+            <h3>Tên của table: nhu_table - Các trường: username, password </h3>
             <hr>
             <h3>Ho va ten: Trần Thị Mai Phương - MSSV: B1809170 </h3>
             <h3>Ten table: phuong_table - Các trường: username, password
