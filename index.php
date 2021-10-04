@@ -15,8 +15,8 @@
                 <h3>Danh sách các thành viên</h3>
                 <ul>
                     <li><a href="https://nhom5-dtdm.herokuapp.com/truongminhtam">Trương Minh Tâm</a></li>
-                    <li><a href="#">Trần Thị Mai Phương</a></li>
-                    <li><a href="#">Lê Hoàng Sơn</a></li>
+                    <li><a href="">Trần Thị Mai Phương</a></li>
+                    <li><a href="/lehoangson">Lê Hoàng Sơn</a></li>
                     <li><a href="#">Nguyễn Thị Mỹ Như</a></li>
                     <li><a href="#">Lê Thiện Ngôn</a></li>
                     <li><a href="#">Nguyễn Thị Ngọc Ngà</a></li>
@@ -41,6 +41,9 @@
             <hr>
 	    <h3>Ho va ten: Truong Minh Tam - MSSV: B1809177</h3>
 	    <h3>Ten Table: Thanhvien - Cac truong: id, username, password, gioitinh, nghenghiep, sodt</h3>
+	    <hr>
+	    <h3>Họ và tên: Lê Hoàng Sơn - MSSV: B1809175</h3>
+	    <h3>Tên table: lehoangson - Các trường: username, password</h3>
 	    <hr>
         </div>
     </div>
