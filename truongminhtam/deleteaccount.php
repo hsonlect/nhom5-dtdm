@@ -24,7 +24,7 @@
 				$sql ="DELETE FROM Thanhvien WHERE id = '$idtv'";
 				$ret = pg_query($db, $sql);
 			}
-					header('location: listaccount.php');
+					header('location: listaddcount.php');
 					pg_close($db);
 		}
 

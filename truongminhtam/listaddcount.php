@@ -38,7 +38,6 @@
 					{
 						echo "	<tr><td> 		 	$i 				</td>";
 						echo "		<td> 		 ".$row['username']."	</td>";
-						echo "		<td> 		 ".$row['password']."	</td>";
 						echo "		<td> 		 ".$row['gioitinh']."	</td>";
 						echo "		<td> 		 ".$row['nghenghiep']."	</td>";
 						echo "		<td> 		 ".$row['sodt']."	</td>";
