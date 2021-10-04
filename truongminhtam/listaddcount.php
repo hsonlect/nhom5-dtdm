@@ -43,13 +43,12 @@
 						echo "		<td> 		 ".$row['sodt']."	</td>";
 						echo "		<td><a href='./deleteaccount.php?idtv=". $row['id'] ."'>Delete</a></td></tr>";
 						$i++;
-					
 					}
 					echo "</table>";
 				echo "</div>";
 				echo "<div class='logout'>
-					 <button type='button'><a href='logout.php'>Đăng Xuất</a></button>
-				</div>";	
+					 <button type='button'><a href='index.php'>HOME</a></button>
+				</div>";
 			pg_close($db);
 		 ?>
 	</body>
