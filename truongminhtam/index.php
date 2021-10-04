@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Layout 1</title>
-	<link rel="stylesheet" type="text/css" href="./css/style.css" />
+	<link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
 	<div id="banner">
