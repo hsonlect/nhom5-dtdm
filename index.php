@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Lập trình Web _ CT428</title>
+    <title>Diem Toan Dam May</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
@@ -14,11 +14,11 @@
             <div class="menu_left">
                 <h3>Danh sách các thành viên</h3>
                 <ul>
-                    <li><a href="https://nhom5-dtdm.herokuapp.com/truongminhtam">Trương Minh Tâm</a></li>
-                    <li><a href="">Trần Thị Mai Phương</a></li>
+                    <li><a href="/truongminhtam">Trương Minh Tâm</a></li>
+                    <li><a href="/tranthimaiphuong">Trần Thị Mai Phương</a></li>
                     <li><a href="/lehoangson">Lê Hoàng Sơn</a></li>
-                    <li><a href="#">Nguyễn Thị Mỹ Như</a></li>
-                    <li><a href="#">Lê Thiện Ngôn</a></li>
+                    <li><a href="/nguyenthimynhu">Nguyễn Thị Mỹ Như</a></li>
+                    <li><a href="/lethienngon">Lê Thiện Ngôn</a></li>
                     <li><a href="#">Nguyễn Thị Ngọc Ngà</a></li>
                     <li><a href="#">Nguyễn Hoàng Nguyện</a></li>
                     <li><a href="#">Lưu Hoàng Phúc</a></li>
