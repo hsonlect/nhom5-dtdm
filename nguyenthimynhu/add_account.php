@@ -36,5 +36,5 @@
             }
                 pg_close($db);
         ?>
-        </body>
-        </html>
+   </body>
+</html>

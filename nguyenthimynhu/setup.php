@@ -8,7 +8,7 @@
         echo "Error : Unable to open database\n";
     }
     else{
-        echo "<br>Opened database sucessfully<br>";
+        echo "<br>kết nối csdl thành công<br>";
     }
     $sql="CREATE TABLE nhu_table (username CHAR(10) PRIMARY KEY  NOT NULL, password    CHAR(50)   )";
     
