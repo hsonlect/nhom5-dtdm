@@ -76,6 +76,7 @@
                         <div class="col-75" >
                             <input type="submit"  name="submit" value="Submit" >
                             <input type="reset" name="reset" value="Reset">
+			    <a href="index.php" >HOME</a>
                         </div>
                     </div>
                 </form>
