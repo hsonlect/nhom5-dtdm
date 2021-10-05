@@ -19,7 +19,7 @@
                     <li><a href="/lehoangson">Lê Hoàng Sơn</a></li>
                     <li><a href="/nguyenthimynhu">Nguyễn Thị Mỹ Như</a></li>
                     <li><a href="/lethienngon">Lê Thiện Ngôn</a></li>
-                    <li><a href="#">Nguyễn Thị Ngọc Ngà</a></li>
+                    <li><a href="/nguyenthingocnga">Nguyễn Thị Ngọc Ngà</a></li>
                     <li><a href="#">Nguyễn Hoàng Nguyện</a></li>
                     <li><a href="#">Lưu Hoàng Phúc</a></li>
                     <li><a href="#">Hỗ Trọng Nghĩa</a></li>
