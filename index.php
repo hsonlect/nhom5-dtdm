@@ -35,10 +35,13 @@
             <h3>Họ và tên: Nguyễn Thị Mỹ Như - MSSV: B1809163 </h3>
             <h3>Tên của table: nhu_table - Các trường: username, password </h3>
             <hr>
-            <h3>Ho va ten: Trần Thị Mai Phương - MSSV: B1809170 </h3>
-            <h3>Ten table: phuong_table - Các trường: username, password
-            </h3>
+            <h3>Họ và tên: Trần Thị Mai Phương - MSSV: B1809170 </h3>
+            <h3>Ten table: phuong_table - Các trường: username, password</h3>
             <hr>
+		<h3>Họ và tên: Nguyễn Thị Ngọc Ngà - MSSV: B1809154</h3>
+		<h3>Tên table: MyAccounts – Các trường: username, password</h3>
+            <hr>
+
 	    <h3>Ho va ten: Truong Minh Tam - MSSV: B1809177</h3>
 	    <h3>Ten Table: Thanhvien - Cac truong: id, username, password, gioitinh, nghenghiep, sodt</h3>
 	    <hr>
