@@ -12,6 +12,9 @@ table {
   background-color:#ffedba;
   border-collapse: collapse;
 }
+td{
+text-align:center;
+}
 </style>
 </head>
 <body>

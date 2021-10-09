@@ -12,7 +12,7 @@ function pg_connection_string_from_database_url() {
    } else {
 	         echo "Kết nối cơ sở dữ liệu thành công\n";
    }
-    $sql="DELETE FROM sanpham WHERE username='".$username."'";
+    $sql="DELETE FROM MyAccounts WHERE username='".$username."'";
 
    $ret = pg_query($db, $sql);
    if(!$ret){
