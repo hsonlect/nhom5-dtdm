@@ -46,7 +46,7 @@ function pg_connection_string_from_database_url() {
   <?php
   while($myRow = pg_fetch_assoc($ret)){
         printf("<tr><td>%s</td><td>%s</td>", $myRow['username'],$myRow['password']);
-		echo"<td><a href='xulyxoa.php?username=".$myRow['username']."'><i class="fa fa-trash" aria-hidden="true"></i></td>";
+		echo"<td><a href='xulyxoa.php?username=".$myRow['username']."'><i class='fa fa-trash' aria-hidden='true'></i></td>";
 		echo"</tr>";
   }   
   
