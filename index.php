@@ -16,6 +16,7 @@
             <div class="menu_left">
                 <h3>Danh sách các thành viên</h3>
                 <ul>
+<<<<<<< HEAD
                     <li><a href="/truongminhtam/">Trương Minh Tâm</a></li>
                     <li><a href="/tranthimaiphuong/">Trần Thị Mai Phương</a></li>
                     <li><a href="/lehoangson/">Lê Hoàng Sơn</a></li>
@@ -23,6 +24,15 @@
                     <li><a href="/lethienngon/">Lê Thiện Ngôn</a></li>
                     <li><a href="/nguyenthingocnga/">Nguyễn Thị Ngọc Ngà</a></li>
                     <li><a href="#">Nguyễn Hoàng Nguyện</a></li>
+=======
+                    <li><a href="/truongminhtam">Trương Minh Tâm</a></li>
+                    <li><a href="/tranthimaiphuong">Trần Thị Mai Phương</a></li>
+                    <li><a href="/lehoangson">Lê Hoàng Sơn</a></li>
+                    <li><a href="/nguyenthimynhu">Nguyễn Thị Mỹ Như</a></li>
+                    <li><a href="/lethienngon">Lê Thiện Ngôn</a></li>
+                    <li><a href="/nguyenthingocnga">Nguyễn Thị Ngọc Ngà</a></li>
+                    <li><a href="/nguyenhoangnguyen">Nguyễn Hoàng Nguyện</a></li>
+>>>>>>> 1721b1f788db9d951feb1b9bfbd6e3c4a3957f51
                     <li><a href="#">Lưu Hoàng Phúc</a></li>
                     <li><a href="#">Hỗ Trọng Nghĩa</a></li>
                 </ul>
