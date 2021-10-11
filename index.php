@@ -121,9 +121,6 @@
 
             
         </div>
-        <hr>   
-        <hr>
-        <hr>
     </div>
 </body>
 
