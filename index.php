@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Diem Toan Dam May</title>
+    <title>Điện Toán Đám Mây</title>
     <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 
