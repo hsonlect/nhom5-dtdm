@@ -1,18 +1,18 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 20px;
-    width: 1500px;
+    width: 100%;
     margin: 0px auto;
 }
 
 #main #left {
-    width: 24%;
+    width: 19%;
     float: left;
     min-height: 400px;
 }
 
 #main #right {
-    width: 74%;
+    width: 79%;
     float: right;
     min-height: 400px;
 }
@@ -23,7 +23,7 @@ body {
 }
 
 #main {
-    margin-top: 10px;
+    margin: 50px;
 }
 
 #main #left .menu_left ul {
@@ -62,19 +62,30 @@ body {
     color: #FFF;
 }
 
+
 /* Add by Lê Hoàng Sơn 11/10/2021*/
-table{
+
+table {
     border-collapse: collapse;
     width: 100%;
 }
-tr, th, td{
+
+tr,
+th,
+td {
     border: 1px solid black;
     line-height: 50px;
 }
-th, tr:nth-child(even){
+
+th,
+tr:nth-child(even) {
     background-color: gainsboro;
 }
-.text-center, td:not(:first-child){
+
+.text-center,
+td:not(:first-child) {
     text-align: center;
 }
+
+
 /* End addition*/

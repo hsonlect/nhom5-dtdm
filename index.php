@@ -26,7 +26,9 @@
                     <li><a href="#">Lưu Hoàng Phúc</a></li>
                     <li><a href="#">Hỗ Trọng Nghĩa</a></li>
                 </ul>
+
                 <!-- <img src="https://lazi.vn/uploads/photo/lazi_5ef073fc3f49e_1592816636_85.jpg" width="300px"> -->
+            
             </div>
         </div>
 
@@ -96,30 +98,6 @@
                 </tbody>
             </table>
 
-
-            <!-- <h3>Họ và tên: Lê Thiện Ngôn - MSSV: B1809157 </h3>
-            <h3>Tên của Table: tofulee - Các trường: name, mssv</h3>
-            <hr>
-            <h3>Họ và tên: Nguyễn Thị Mỹ Như - MSSV: B1809163 </h3>
-            <h3>Tên của table: nhu_table - Các trường: username, password </h3>
-            <hr>
-            <h3>Họ và tên: Trần Thị Mai Phương - MSSV: B1809170 </h3>
-            <h3>Ten table: phuong_table - Các trường: username, password</h3>
-            <hr>
-            <h3>Họ và tên: Nguyễn Thị Ngọc Ngà - MSSV: B1809154</h3>
-            <h3>Tên table: MyAccounts – Các trường: username, password</h3>
-            <hr>
-            <h3>Ho va ten: Truong Minh Tam - MSSV: B1809177</h3>
-            <h3>Ten Table: Thanhvien - Cac truong: id, username, password, gioitinh, nghenghiep, sodt</h3>
-            <hr>
-            <h3>Họ và tên: Lê Hoàng Sơn - MSSV: B1809175</h3>
-            <h3>Tên table: lehoangson - Các trường: username, password</h3>
-            <hr>
-            <h3>Ho va ten : Nguyen Hoang Nguyen - Mssv : B1809158</h3>
-            <h3>Ten table : nguyenhoangnguyen - cac truong : username,password</h3>
-            <hr> -->
-
-            
         </div>
     </div>
 </body>
