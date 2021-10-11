@@ -13,7 +13,7 @@
     <?php include "header.php" ;?>
 
     <main>
-        <ul class="nav text-center">
+        <ul class="nav text-left">
             <li><a href="connect_db.php">Script check connect Postgesql</a></li>
             <li><a href="setup.php">Script create table lehoangson</a></li>
             <li><a href="list.php">Form list all accounts</a></li>
