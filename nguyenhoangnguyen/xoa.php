@@ -12,7 +12,7 @@ extract(parse_url("postgres://mbspycvjqdzksv:f1e5253bdc82a019559721281157cfc743f
       echo "<p style='color:blue;'>Opened database successfully</p>";
    }
 
-   $sql ="DELETE FROM Account WHERE username='$username' and password='$password'";
+   $sql ="DELETE FROM Myaccount WHERE username='$username' and password='$password'";
 
    print "<BR>$sql<BR>";
    $ret = pg_query($db, $sql);
