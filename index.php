@@ -14,7 +14,7 @@
         <hr>
         <div id="left">
             <div class="menu_left">
-                <h3>Danh sách các thành viên</h3>
+                <h3>Danh sách thành viên</h3>
                 <ul>
                     <li><a href="/truongminhtam/">Trương Minh Tâm</a></li>
                     <li><a href="/tranthimaiphuong/">Trần Thị Mai Phương</a></li>

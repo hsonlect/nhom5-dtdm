@@ -54,38 +54,41 @@ body {
 
 #main #left .menu_left h3 {
     background: blue;
-    height: 40px;
+    /* height: 40px; */
+    height: 50px; /*Edit by LHS*/
     margin-top: 0px;
     text-indent: 15px;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 40px;
     color: #FFF;
 }
 
 
 /* Add by Lê Hoàng Sơn 11/10/2021*/
-
 table {
     border-collapse: collapse;
     width: 100%;
 }
-
 tr,
 th,
 td {
     border: 1px solid black;
     line-height: 50px;
 }
-
-th,
+th{
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
 tr:nth-child(even) {
     background-color: gainsboro;
 }
-
+tr:hover{
+    color: white;
+    background-color: red;
+}
 .text-center,
 td:not(:first-child) {
     text-align: center;
 }
-
-
 /* End addition*/
