@@ -24,7 +24,7 @@
                     <li><a href="/nguyenthingocnga/">Nguyễn Thị Ngọc Ngà</a></l>
                     <li><a href="/nguyenhoangnguyen">Nguyễn Hoàng Nguyện</a></li>
                     <li><a href="#">Lưu Hoàng Phúc</a></li>
-                    <li><a href="#">Hỗ Trọng Nghĩa</a></li>
+                    <li><a href="/hotrongnghia">Hỗ Trọng Nghĩa</a></li>
                 </ul>
 
                 <!-- <img src="https://lazi.vn/uploads/photo/lazi_5ef073fc3f49e_1592816636_85.jpg" width="300px"> -->
@@ -91,9 +91,9 @@
                     </tr>
                     <tr>
                         <td>Hồ Trọng Nghĩa</td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>B1809156</td>
+                        <td>hotrongnghia</td>
+                        <td>username, password</td>
                     </tr>
                 </tbody>
             </table>
